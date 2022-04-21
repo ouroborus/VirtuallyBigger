@@ -144,3 +144,7 @@ dist
 
 # Notepad++
 nppBackup/
+
+# security
+security/**
+!security/README.md
